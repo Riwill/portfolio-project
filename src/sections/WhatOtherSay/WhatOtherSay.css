@@ -1,0 +1,12 @@
+.container {
+    width: 90%;
+    height: 300px;
+    margin: 5%;
+    align-items: center;
+    text-align: center;
+}
+
+.slick-slide {
+    height: 320px;
+    box-sizing: border-box;
+}
