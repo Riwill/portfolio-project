@@ -40,7 +40,7 @@ class Project extends Component {
                     marginTop: "-1%",
                     marginLeft:"-2%"
                 }}>
-                    <TextSmallProject value={"Developed a company profile for a client based on React. in this project, I have opportunity become a front-end developer."}/>
+                    <TextSmallProject value={"Developed a company profile for a client based on React. In this project, I have opportunity become a front-end developer."}/>
                 </Grid>
                 <Grid item sm={2} xs={1}
                 style={{
@@ -52,7 +52,7 @@ class Project extends Component {
                     marginTop: "-1%",
                     marginLeft:"-2%"
                 }}>
-                    <TextSmallProject value={"Developed a software application for a production team based on Java. in this project, I have opportunity become a full-stack developer."}/>
+                    <TextSmallProject value={"Developed a software application for a production team based on Java. In this project, I have opportunity become a full-stack developer."}/>
                 </Grid>
                 <Grid item sm={1} xs={1}/>
                 <Grid item sm={1} xs={1}/>
